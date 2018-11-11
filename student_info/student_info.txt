@@ -1,0 +1,7 @@
+xiaowang,11,80
+xiaoli,15,95
+xiaohuang,13,79
+lihua,10,87
+xiaowei,13,100
+hanmeimei,14,91
+xiaoming,16,92
